@@ -1,0 +1,11 @@
+myconfig:
+  appName: My Web App
+  appDescription: ${myconfig.appName} is a Spring Boot Application
+  programmer: Saurabh
+  email: abc@gmail.com
+
+config2:
+  appName: My 2nd App
+  appDescription: ${config2.appName} is also a Spring Boot Application
+  prorammer: Samuel
+  email: xyz@gmail.com
